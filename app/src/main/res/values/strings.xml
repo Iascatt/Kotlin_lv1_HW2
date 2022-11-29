@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_lv1_HW2</string>
+    <string name="base_url">https://api.giphy.com/</string>
+    <string name="url_trending">v1/gifs/trending</string>
+    <string name="api_key">94MNWFdpvW4BTFldUbDPqXFhI0eQwpCS</string>
+
+</resources>
